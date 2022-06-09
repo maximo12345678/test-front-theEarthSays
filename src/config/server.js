@@ -1,0 +1,1 @@
+export const uriApiService = 'http://localhost:9000/api/';
